@@ -1,4 +1,4 @@
-# Silver Waters Healing & Consulting: Home, About, Services and Contact (Prototype v11)
+# Silver Waters Healing & Consulting: Home, About, Services and Contact (Prototype v12)
 
 Built from Prototype v1 with Sierra's feedback. Files: index.html, styles.css, script.js, assets/.
 
@@ -78,3 +78,6 @@ Pinned at 1024px wide and 672px tall or larger. Below that they behave as normal
 
 ## v11 changes
 - Added `noindex, nofollow` to every page and a robots.txt that disallows crawling, so the prototype stays out of search results. Remove both before launch.
+
+## v12 changes
+- Share preview for texts and social: Open Graph and Twitter card tags on every page, with a 1200x630 image (assets/img/share.jpg: logo on navy). The og:image URL points at the GitHub Pages address; update it to the live domain at launch.
