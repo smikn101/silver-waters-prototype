@@ -1,4 +1,4 @@
-# Silver Waters Healing & Consulting: Home, About, Services and Contact (Prototype v10)
+# Silver Waters Healing & Consulting: Home, About, Services and Contact (Prototype v11)
 
 Built from Prototype v1 with Sierra's feedback. Files: index.html, styles.css, script.js, assets/.
 
@@ -75,3 +75,6 @@ Pinned at 1024px wide and 672px tall or larger. Below that they behave as normal
 
 ## v10 changes
 - Header "Book a session" button: hover and keyboard focus now fill light with dark text, so the label no longer disappears.
+
+## v11 changes
+- Added `noindex, nofollow` to every page and a robots.txt that disallows crawling, so the prototype stays out of search results. Remove both before launch.
